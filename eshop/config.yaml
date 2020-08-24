@@ -1,0 +1,6 @@
+driver: "chrome"
+report:
+  output: "reports"
+  report_title: "Report of test execution"
+  report_name: "SampleReport"
+  add_timestamp: true
